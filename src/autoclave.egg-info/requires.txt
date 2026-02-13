@@ -1,0 +1,7 @@
+pyserial
+tk
+pillow
+PyYAML
+SQLAlchemy
+serial
+pydantic

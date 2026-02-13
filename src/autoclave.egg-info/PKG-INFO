@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: autoclave
+Version: 0.1.0
+Summary: Sistema de control para autoclave
+Author: Especifika S.A.S., Cristian Alexis
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: pyserial
+Requires-Dist: tk
+Requires-Dist: pillow
+Requires-Dist: PyYAML
+Requires-Dist: SQLAlchemy
+Requires-Dist: serial
+Requires-Dist: pydantic

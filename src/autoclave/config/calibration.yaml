@@ -1,0 +1,23 @@
+name: "Calibracion Sensores"
+sampling_interval_ms: 500
+
+calibration:
+  temperature:
+    - {offset: -0.3, gain: 1.02}
+    - {offset: -0.5, gain: 1.01}
+    - {offset: -0.2, gain: 1.00}
+    - {offset: 0.0, gain: 1.00}
+    - {offset: 0.1, gain: 0.99}
+    - {offset: 0.0, gain: 1.00}
+    - {offset: -0.1, gain: 1.02}
+    - {offset: 0.0, gain: 1.00}
+
+  pressure:
+    - {offset: -86.35, gain: 1.297}
+    - {offset: 0.2, gain: 0.98}
+    - {offset: 0.0, gain: 1.01}
+    - {offset: -0.1, gain: 1.00}
+    - {offset: 0.0, gain: 1.00}
+    - {offset: 0.1, gain: 0.99}
+    - {offset: 0.0, gain: 1.00}
+    - {offset: 0.0, gain: 1.00}
